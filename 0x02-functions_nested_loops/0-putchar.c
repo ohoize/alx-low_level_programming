@@ -2,9 +2,9 @@
 
 /**
  * main - print _putchar
- *
+ * written by emma
  * Return: 0
- */
+*/
 
 int main(void)
 {

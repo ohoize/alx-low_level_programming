@@ -3,7 +3,7 @@
  * print_alphabet_x10 - print all alphabets in lowercase 10 times.
  * Return: 1
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	char i, k;
 

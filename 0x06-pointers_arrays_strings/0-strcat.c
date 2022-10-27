@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcat - concatenates two strings,
+ * _strcat - concatenates two strings.
  *
  * @dest: destination.
  * @src: source.
@@ -11,7 +11,7 @@ char *_strcat(char *dest, char *src)
 {
 	int count = 0, count2 = 0;
 
-	while (*(dest + char) != '\0')
+	while (*(dest + count) != '\0')
 	{
 		count++;
 	}
